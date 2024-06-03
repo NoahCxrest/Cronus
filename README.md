@@ -1,1 +1,3 @@
-# Cronusc ![ERM Logo](https://network.ermbot.xyz/images/ERMLogoExtended.svg)
+![ERM Logo](https://network.ermbot.xyz/images/ERMLogoExtended.svg)
+# Cronus 
+------
