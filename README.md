@@ -1,2 +1,1 @@
-# Cronus
-![ermmm]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.ermbot.xyz/assets/images/logo.svg))
+# Cronusc ![ERM Logo](https://network.ermbot.xyz/images/ERMLogoExtended.svg)
